@@ -18,12 +18,10 @@ class Eagle:
 
 
 class Pegasus (Horse, Eagle):
-    def __init__(self):
-        super().__init__()
 
     def move(self, dx, dy):
-        self.x_distance += dx
-        self.y_distance += dy
+        self.run(dx)
+        self.fly(dy)
 
     def get_pos(self):
         return self.x_distance, self.y_distance
