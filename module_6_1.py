@@ -15,30 +15,27 @@ class Animal:
 
 
 class Mammal(Animal):
-    def __init__(self, name):
-        super().__init__(name)
+    pass
 
 
 class Predator(Animal):
-    def __init__(self, name):
-        super().__init__(name)
+    pass
 
 
 class Plant:
     edible = False
+
     def __init__(self, name):
         self.name = name
 
 
 class Flower(Plant):
-    def __init__(self, name):
-        super().__init__(name)
+    pass
 
 
 class Fruit(Plant):
     edible = True
-    def __init__(self, name):
-        super().__init__(name)
+    pass
 
 
 a1 = Predator('Волк с Уолл-Стрит')
