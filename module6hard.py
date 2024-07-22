@@ -112,6 +112,6 @@ print(len(circle1))
 print(cube1.get_volume())
 
 # Дополнительная проверка для треугольника. Основание считается к наибольшей стороне!
-Triang1 = Triangle((200, 200, 100), 3, 4, 5)
+Triang1 = Triangle((200, 200, 100), 3, 5, 4)
 print(f'Triangle with sides {Triang1.get_sides()}')
-print(f'Max side : {max(Triang1.get_sides())}\nSquare :{Triang1.get_square()}\nHeight :{Triang1._Triangle__height}')
+print(f'Max side : {max(Triang1.get_sides())}\nSquare: {Triang1.get_square()}\nHeight: {Triang1._Triangle__height}')
