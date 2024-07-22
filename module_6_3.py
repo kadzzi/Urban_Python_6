@@ -1,5 +1,5 @@
 class Horse:
-    def __init__(self, y_distance=0, x_distance=0, sound='Frrr'):
+    def __init__(self, x_distance=0, y_distance=0, sound='Frrr'):
         self.x_distance = x_distance
         self.sound = sound
         super().__init__(y_distance)
