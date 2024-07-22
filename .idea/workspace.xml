@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c76dcb-a6d8-470b-80a5-d955048c9030" name="Changes" comment="added module6hard.py with triangle check">
+    <list default="true" id="27c76dcb-a6d8-470b-80a5-d955048c9030" name="Changes" comment="removed super_inits, added passes in module_6_1.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module6hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module6hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module6hard.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.module6hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,8 +109,43 @@
       <option name="project" value="LOCAL" />
       <updated>1721673633526</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" corrected triangle check in module6hard.py">
+      <option name="closed" value="true" />
+      <created>1721681006577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721681006577</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" corrected class attribute in module_6_1.py6hard.py">
+      <option name="closed" value="true" />
+      <created>1721681758567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721681758567</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removed super_inits, added passes in module_6_1.py">
+      <option name="closed" value="true" />
+      <created>1721682121347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721682121347</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added module_6_1.py" />
@@ -119,6 +153,9 @@
     <MESSAGE value="added module_6_3.py" />
     <MESSAGE value="moved x_distance=0, y_distance=0 in module_6_3.py" />
     <MESSAGE value="added module6hard.py with triangle check" />
-    <option name="LAST_COMMIT_MESSAGE" value="added module6hard.py with triangle check" />
+    <MESSAGE value=" corrected triangle check in module6hard.py" />
+    <MESSAGE value=" corrected class attribute in module_6_1.py6hard.py" />
+    <MESSAGE value="removed super_inits, added passes in module_6_1.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed super_inits, added passes in module_6_1.py" />
   </component>
 </project>
